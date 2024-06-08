@@ -5,10 +5,13 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>RISSANEN.DEV</title>
+	<title>ʳⁱˢˢᵃⁿᵉⁿ.ᵈᵉᵛ</title>
 	<atom:link href="https://www.rissanen.dev/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.rissanen.dev</link>
 	<description></description>
@@ -38,6 +41,25 @@
 			<slash:comments>1</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://www.rissanen.dev/2024/03/07/hello-world-2/</link>
+					<comments>https://www.rissanen.dev/2024/03/07/hello-world-2/#comments</comments>
+		
+		<dc:creator><![CDATA[Rissanen]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2024 08:25:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://kentatheme.com/kenta-creato/?p=1</guid>
+
+					<description><![CDATA[Welcome to Kenta Sites. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <a href="https://kentatheme.com/">Kenta Sites</a>. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.rissanen.dev/2024/03/07/hello-world-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">180</post-id>	</item>
 	</channel>
 </rss>

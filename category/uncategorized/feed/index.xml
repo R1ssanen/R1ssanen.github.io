@@ -11,8 +11,8 @@
 	>
 
 <channel>
-	<title>Rissanen &#8211; ʳⁱˢˢᵃⁿᵉⁿ.ᵈᵉᵛ</title>
-	<atom:link href="https://www.rissanen.dev/author/rissanen/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; ʳⁱˢˢᵃⁿᵉⁿ.ᵈᵉᵛ</title>
+	<atom:link href="https://www.rissanen.dev/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.rissanen.dev</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jun 2024 00:05:29 +0000</lastBuildDate>

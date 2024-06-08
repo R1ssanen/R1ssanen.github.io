@@ -4,10 +4,13 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
-	Comments for RISSANEN.DEV	</title>
+	Comments for ʳⁱˢˢᵃⁿᵉⁿ.ᵈᵉᵛ	</title>
 	<atom:link href="https://www.rissanen.dev/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.rissanen.dev</link>
 	<description></description>
@@ -32,6 +35,24 @@ Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;G
 			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
 Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Hello world! by A WordPress Commenter		</title>
+		<link>https://www.rissanen.dev/2024/03/07/hello-world-2/#comment-2</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2024 08:25:52 +0000</pubDate>
+		<guid isPermaLink="false">https://kentatheme.com/kenta-creato/?p=1#comment-2</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot; rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://en.gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>
